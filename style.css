@@ -1,0 +1,18 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body{
+background-position:center;
+background-size:cover;
+}
+#status,#number
+{
+font-size: 18px;
+}
+canvas{
+border:5px solid red;
+margin-top:40px;
+}
